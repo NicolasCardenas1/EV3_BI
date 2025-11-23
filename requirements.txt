@@ -1,0 +1,22 @@
+# =============================================================================
+# Dependencias del proyecto BI_T2_CardenasNicolas
+# Proyecto: Modelamiento de patrones sísmicos en Chile a través de regresión, clasificación y clustering
+# =============================================================================
+
+# Python 3.12.10
+
+# Procesamiento de datos
+pandas==2.3.3
+numpy==2.3.4
+
+# Visualización
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.7.2
+
+# Jupyter / Notebook
+nbformat==5.10.4
+ipykernel==7.1.0
+jupyter==1.1.1
