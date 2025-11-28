@@ -9,5 +9,7 @@ En caso de que falten dependencias:
 
   y luego `python -m pip install -r requirements.txt`.
 
+Luego, en "Select Kernel", seleccionar `.venv` con **Python 3.12.10** 
+
 **Dependencias y versión de Python:** ver `requirements.txt` (pandas, numpy, matplotlib, seaborn, scikit-learn, nbformat, ipykernel, jupyter); probado en **Python 3.12.10**.  
 El notebook carga el dataset desde `data/`, guarda las figuras en `figuras/` y fija semillas (`random_state=42`) para favorecer la reproducibilidad entre distintos equipos.
